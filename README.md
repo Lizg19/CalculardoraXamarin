@@ -6,7 +6,7 @@
   - Multiplicación
   - División
  
- - Para hacer cualquiera de las operaciones antes mencionadas, existiran dos label en los cuales se ingresaran los números respectivos.
+ - Para hacer cualquiera de las operaciones antes mencionadas, existiran dos componentes "EditText" en los cuales se ingresaran los números respectivos.
  - Y para visualizar el resultado del mismo, se lo hará al final.
  
  ### EJEMPLOS DE CADA UNA DE LAS OPERACIONES
