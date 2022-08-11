@@ -23,5 +23,7 @@
   ![image](https://user-images.githubusercontent.com/65980001/184240813-6f2f771e-d06f-4fb8-bd77-77229442e84c.png)
 
   
-
- 
+## INTEGRANTES
+- Lizbeth García
+- Kevin Veliz
+- Christopher Vera
